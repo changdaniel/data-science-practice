@@ -32,3 +32,10 @@ git push
 git diff
 git pull
 ```
+
+# python
+```
+jupyter notebook
+pip3 install package_name
+python3 script_name
+```
